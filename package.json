@@ -7,7 +7,7 @@
     "dev": "mix",
     "watch": "mix watch",
     "pro": "mix --production"
-  },
+  },   
   "keywords": [],
   "author": "",
   "license": "ISC",
